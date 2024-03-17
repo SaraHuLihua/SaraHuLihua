@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Sara Hu from Naples, Italy<br><br>- 🔭 I’m studying Mechatronic engineer <br>- 📚 I'm currently learning the development of Its application at Apple developer Academy<br>- ⚡ In my free time I love to draw, listen to music, travel, and have fun with friends</p>
+<p align="left">I'm Sara Hu from Naples, Italy<br><br>- 🔭 I’m studying Mechatronic engineer <br>- 📚 I'm currently learning the development of iOS application at Apple developer Academy<br>- ⚡ In my free time I love to draw, listen to music, travel, and have fun with friends</p>
 
 ###
 
