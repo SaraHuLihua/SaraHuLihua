@@ -25,7 +25,7 @@
 
 ---
 
-<details>
+<details open="">
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -52,7 +52,7 @@
 </details>
 <br>
 
-<details>
+<details open="">
 <summary>
   🌱 Looking forward to learn:
 </summary>
@@ -97,7 +97,4 @@
   </a>
   <br>
   
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saraHuLihua.saraHuLihua&"  />
-</div>
 
