@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Ratheshan Sathiyamoorthy</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Federico II</b>, Naples</a>.
+    This is me <b>Sara Hu Lihua</b>, a final year <b>Mechatronic Engineer</b> undergraduate from <a href="https://ingegneria-meccatronica.dieti.unina.it/index.php/it/"> <b>Federico II</b>, Naples</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
