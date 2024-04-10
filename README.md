@@ -14,7 +14,7 @@
 <h3>Little facts about me 👩🏻‍💼</h3>
 
 - 🧞 I'm a Tech Enthusiast 
-- 🔭 I’m studying Mechatronic engineer.
+- 🔭 I’m studying Mechatronic engineering.
 - 📚 I'm currently learning the development of Its application at Apple developer Academy
 - ⚡ In my free time I love to draw, listen to music, travel, and have fun with friends
 - 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
